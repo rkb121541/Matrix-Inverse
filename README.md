@@ -2,7 +2,7 @@
 
 Implemented programs to calculate the inverses of 2x2 and 3x3 matrices. The final matrix can be displayed with each entry of the final matrix represented in either decimal or fractional form.
 
-The 2x2 matrix is calculated using the [standard formula for calculating 2x2 matrix inverses](https://www.chilimath.com/lessons/advanced-algebra/inverse-of-a-2x2-matrix/):
+The 2x2 matrix is calculated using the [standard formula for calculating 2x2 matrix inverses](https://www.chilimath.com/lessons/advanced-algebra/inverse-of-a-2x2-matrix/).
 
 <!-- $$ 
 \begin{bmatrix} 
@@ -16,7 +16,7 @@ The 2x2 matrix is calculated using the [standard formula for calculating 2x2 mat
     \end{bmatrix}
 $$ -->
 
-The 3x3 matrix is calculated using the [Cofactor formula](https://www.mathsisfun.com/algebra/matrix-inverse-minors-cofactors-adjugate.html):
+The 3x3 matrix is calculated using the [Cofactor formula](https://www.mathsisfun.com/algebra/matrix-inverse-minors-cofactors-adjugate.html).
 
 <!-- $$
 A^{-1} =
