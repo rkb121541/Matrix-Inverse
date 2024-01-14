@@ -5,7 +5,7 @@ The 2x2 matrix is calculated using the standard formula:
 $$ 
 \frac{1}{ad-bc} 
 \begin{bmatrix} 
-a & b \\ 
-c & d 
-\end{bmatrix}
+  a & b \\ 
+  c & d 
+  \end{bmatrix}
 $$
