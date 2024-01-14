@@ -1,6 +1,6 @@
-# MatrixInverse
+# Finding Inverses of 2x2 and 3x3 Matrices
 
-Implemented programs to calculate the inverses of 2x2 and 3x3 matrices. The final matrix can be displayed with each entry of the final matrix represented in either decimal or fractional form.
+The entries of the final resulting matrix can all be represented in either decimal or fractional form.
 
 The 2x2 matrix is calculated using the [standard formula for calculating 2x2 matrix inverses](https://www.chilimath.com/lessons/advanced-algebra/inverse-of-a-2x2-matrix/).
 
